@@ -1,7 +1,7 @@
 # Flask_Expense_Tracker_Dashboard
 
 Project Idea:
-This is a web application useful for visualize the data based on income ,expenses on different category . We can also add, delete datas.
+This is a web application useful for visualize the data based of  income ,expenses on different category . We can also add, delete datas.
 Here we do Data and information visualization using pie ,bar and other charts .
 
 
