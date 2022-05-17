@@ -2,7 +2,7 @@
 
 Project Idea:
 This is a web application useful for visualize the data based of  income ,expenses on different category . We can also add, delete datas.
-Here we do Data and information visualization using pie ,bar and other charts .
+Here we do Data and information visualization using pie ,bar and other charts .Also we report the transaction information.
 
 
 
